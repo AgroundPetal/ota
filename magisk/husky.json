@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/AgroundPetal/ota/releases/download/2025120401/husky-2025120401-ef9d2ae-magisk-v29.0.zip",
-    "location_csig": "https://github.com/AgroundPetal/ota/releases/download/2025120401/husky-2025120401-ef9d2ae-magisk-v29.0.zip.csig"
+    "location_ota": "https://github.com/AgroundPetal/ota/releases/download/2025121201/husky-2025121201-3acb027-magisk-v30.6.zip",
+    "location_csig": "https://github.com/AgroundPetal/ota/releases/download/2025121201/husky-2025121201-3acb027-magisk-v30.6.zip.csig"
   }
 }
