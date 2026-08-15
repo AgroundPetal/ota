@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/AgroundPetal/ota/releases/download/2026080501/husky-2026080501-0075763-rootless.zip",
-    "location_csig": "https://github.com/AgroundPetal/ota/releases/download/2026080501/husky-2026080501-0075763-rootless.zip.csig"
+    "location_ota": "https://github.com/AgroundPetal/ota/releases/download/2026081301/husky-2026081301-be8c2a4-rootless.zip",
+    "location_csig": "https://github.com/AgroundPetal/ota/releases/download/2026081301/husky-2026081301-be8c2a4-rootless.zip.csig"
   }
 }
